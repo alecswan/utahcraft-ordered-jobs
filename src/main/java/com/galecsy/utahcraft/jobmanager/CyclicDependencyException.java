@@ -1,7 +1,7 @@
 //
 // CyclicDependencyException.java
 //
-// Copyright 2013, NextPage Inc. All rights reserved.
+// Author: alecswan
 //
 
 package com.galecsy.utahcraft.jobmanager;
